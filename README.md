@@ -1,5 +1,6 @@
+#soer2
 # GraphQL
-
+@
 <img alt="GraphQL Logo" align="right" src="https://graphql.org/img/logo.svg" width="15%" />
 
 The GraphQL specification is edited in the markdown files found in
